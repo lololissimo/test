@@ -1,7 +1,7 @@
 Робоче репо золотого корпусу. Звідси [скриптами](https://github.com/mova-institute/lib) будуються українські [Universal Dependencies](http://universaldependencies.org).  
 Використовуйте :point_right:[збудовану версію](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/dev), викладену на UD: вона має стандартний стабільний формат. Працюйте _над_ створенням золота тутечки :woman_scientist:.
 
-
+---
 
 ### екосистема
 
