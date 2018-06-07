@@ -1,5 +1,5 @@
-Робоче репо золотого корпусу. Звідси [скриптами](https://github.com/mova-institute/lib) будуються українські [Universal Dependencies](http://universaldependencies.org).
-Використовуйте збудовану версію, [викладену на UD](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/dev): вона має стандартний стабільний формат.
+Робоче репо золотого корпусу. Звідси [скриптами](https://github.com/mova-institute/lib) будуються українські [Universal Dependencies](http://universaldependencies.org).  
+Використовуйте збудовану версію, 👉[викладену на UD](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/dev): вона має стандартний стабільний формат.
 
 
 
