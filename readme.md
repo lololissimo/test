@@ -13,14 +13,14 @@ UD Ukrainian comprises 100K tokens in 5873 sentences of fiction, news, opinion a
 
 Major contributors: Natalia Kotsyba, Bohdan Moskalevskyi, Mykhailo Romanenko.
 
-Large portion of anotation was made by Halyna Samoridna, Ivanka Kosovska, Olha Lytvyn, Oksana Orlenko and by students of Kyiv-Mohyla Academy department of Ukrainian language (headed by Liudmyla Dyka): Hanna Brovko, Bohdana Matushko, Natalia Onyshchuk, Valeriia Pareviazko, Yaroslava Rychyk, Anastasiia Stetsenko, Snizhana Umanets.
+Large portion of annotation was made by Halyna Samoridna, Ivanka Kosovska, Olha Lytvyn, Oksana Orlenko and by students of Kyiv-Mohyla Academy department of Ukrainian language (headed by Liudmyla Dyka): Hanna Brovko, Bohdana Matushko, Natalia Onyshchuk, Valeriia Pareviazko, Yaroslava Rychyk, Anastasiia Stetsenko, Snizhana Umanets.
 
 We thank Prof. Larysa Masenko for guidance.
 
 
 # Documentation
 
-[project homepage](https://mova.institute/золотий_стандарт) (in Ukrainian)
+**[Project homepage](https://mova.institute/золотий_стандарт)** (in Ukrainian)
 
 
 ### Search
@@ -89,7 +89,7 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 * upcoming release
   * Readme updated with more description, links.
   * Removed `:pass` subtype from relations as it currently can be inferred from the morphology.
-  * Fixed some annotation errors including _його/її/їх_ `PRON` vs `ADJ` ambiguity by utilizing a valency dictionary.
+  * Fixed some annotation errors including _його/її/їх_ `PRON` vs `DET` ambiguity by utilizing a valency dictionary.
 
 * 2018-04-15 **v2.2**
   * Repository renamed from UD_Ukrainian to UD_Ukrainian-IU to match the new UD naming convention.
