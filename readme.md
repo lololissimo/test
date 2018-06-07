@@ -20,6 +20,9 @@ We thank Prof. Larysa Masenko for guidance.
 
 # Documentation
 
+[project homepage](https://mova.institute/золотий_стандарт) (in Ukrainian)
+
+
 ### Search
 
 * [Bonito](https://mova.institute/bonito/run.cgi/first_form?corpname=zoloto)
@@ -80,8 +83,6 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 ### Contact
 
 [org@mova.institute](mailto:org@mova.institute)
-
-[project homepage](https://mova.institute/золотий_стандарт) (in Ukrainian)
 
 ### Changelog
 
