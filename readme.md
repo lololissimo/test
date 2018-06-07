@@ -1,7 +1,7 @@
 # Summary
 
 Gold standard Universal Dependencies corpus for Ukrainian, developed for UD originally, by [Institute for Ukrainian](https://mova.institute), NGO.  
-[[українською](https://mova.institute/zolotyi_standart)]
+[[українською](https://mova.institute/золотий_стандарт)]
 
 
 # Introduction
@@ -22,8 +22,8 @@ We thank Prof. Larysa Masenko for guidance.
 
 ### Search
 
-* [Bonito](https://mova.institute/korpusy/bonito/run.cgi/first_form?corpname=zoloto)
-* [Kontext](https://mova.institute/korpusy/kontext/first_form)
+* [Bonito](https://mova.institute/bonito/run.cgi/first_form?corpname=zoloto)
+* [Kontext](https://mova.institute/kontext/first_form)
 * [Turku depsearch](https://lab.mova.institute/dep_search/)
 
 You can also browse the entire treebank in [Brat](https://lab.mova.institute/brat/#/ud/).
@@ -71,7 +71,7 @@ UD Ukrainian data conforms to [CoNLL-U](http://universaldependencies.org/format.
 
 
 ### Development
-Data files are built from sources at [mova-institute/zoloto](github.com/mova-institute/zoloto), where actual development happens.
+Data files are built from sources at [mova-institute/zoloto](https://github.com/mova-institute/zoloto), where actual development happens.
 
 
 ### Licensing
@@ -81,7 +81,7 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 
 [org@mova.institute](mailto:org@mova.institute)
 
-[project homepage](https://mova.institute/zolotyi_standart) (in Ukrainian)
+[project homepage](https://mova.institute/золотий_стандарт) (in Ukrainian)
 
 ### Changelog
 
