@@ -88,7 +88,7 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 
 * upcoming release
   * Readme updated with more description, links.
-  * Removed `:pass` relations as they currently can be inferred from the morphology.
+  * Removed `:pass` subtype from relations as it currently can be inferred from the morphology.
   * Fixed some annotation errors including _його/її/їх_ `PRON` vs `ADJ` ambiguity by utilizing a valency dictionary.
 
 * 2018-04-15 **v2.2**
