@@ -20,7 +20,7 @@ We thank Prof. Larysa Masenko for guidance.
 
 # Documentation
 
-**[project homepage](https://mova.institute/золотий_стандарт)** (in Ukrainian)
+**[Project homepage](https://mova.institute/золотий_стандарт)** (in Ukrainian)
 
 
 ### Search
