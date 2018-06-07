@@ -20,7 +20,7 @@ We thank Prof. Larysa Masenko for guidance.
 
 # Documentation
 
-**[Project homepage](https://mova.institute/золотий_стандарт)** (in Ukrainian)
+[project homepage](https://mova.institute/золотий_стандарт) (in Ukrainian)
 
 
 ### Search
@@ -86,9 +86,9 @@ The data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/license
 
 ### Changelog
 
-* (upcoming release)
+* upcoming release
   * Readme updated with more description, links.
-  * Removed `:pass` relations as they currently can be derived from the morphology.
+  * Removed `:pass` relations as they currently can be inferred from the morphology.
   * Fixed some annotation errors including _його/її/їх_ `PRON` vs `ADJ` ambiguity by utilizing a valency dictionary.
 
 * 2018-04-15 **v2.2**
