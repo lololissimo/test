@@ -47,7 +47,7 @@ See [stats.xml](stats.xml) for more detail.
 ### Annotation procedure
 
 Morphology is annotated using 2+1 schema. The syntax is single-pass plus supervisor’s check.
-Consistency is further enforced by ~200 validation and autofix [rules](https://github.com/mova-institute/lib/blob/master/src/nlp/ud/validation.ts) (see live[warning page](https://lab.mova.institute/files/pomylky_robochoho_tb.html)) and by investigating errors made by a trained parser.
+Consistency is further enforced by ~200 validation and autofix [rules](https://github.com/mova-institute/lib/blob/master/src/nlp/ud/validation.ts) (see [warnings page](https://lab.mova.institute/files/pomylky_robochoho_tb.html)) and by investigating errors made by a trained parser.
 
 
 ### Data split
